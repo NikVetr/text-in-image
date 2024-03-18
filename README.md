@@ -2,7 +2,7 @@
 
 ## Introduction
 
-You've seen generative text-to-image models, but why not try something substantially less sophisticated? Text-in-Image is an R-based tool designed to automate text-wrapping and optimization from provided text and image input files. I wrote it to create posters and other decorative items for friends, like this one from 2023 I'd made as a graduation presented (printed and signed by the lab):
+You've seen generative text-to-image models, but why not try something substantially less sophisticated? Text-in-Image is an R-based tool designed to automate text-wrapping and optimization from provided text and image input files. I wrote it to create posters and other decorative items for friends, like this one from 2023 I'd made for a friend's graduation (printed and signed by the lab):
 
 ![Generated {Poster}](output/img/graduation_rat.jpg)
 
